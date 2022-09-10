@@ -1,0 +1,5 @@
+baseURL: https://lieskjur.github.io/Notes
+languageCode: en-us
+title: Notes
+
+theme: hugo-book
